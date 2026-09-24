@@ -1,0 +1,75 @@
+img {
+    border-radius: 20px;
+    justify-content: center;
+    margin: 10px;
+    border: solid black;
+    max-width: 500px;
+}
+
+.Cards {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color:azure;
+}
+
+.JoinButton {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: solid black;
+    border-radius: 10px;
+    background-color:darkgrey;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+body {
+    background:linear-gradient(45deg, white ,gray);
+    margin: 10px;
+}
+
+nav {
+    display: flex;
+    border: solid black;
+    position: static;
+    padding: 10px;
+    overflow: hidden;
+    justify-content: space-evenly;
+    background-color: gray;
+}
+
+section {
+    border: solid black;
+    padding: 10px;
+    margin: 10px;
+}
+a:hover, button:hover {
+    background-color: darkgray;
+}
+.JoinButton:hover {
+    background-color: gray;
+}
+.nav {
+    background-color: rgb(137, 130, 130);
+    color: black;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+input {
+    background-color: darkgrey;
+    border: solid black 3px;
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: solid black;
+    border-radius: 10px;
+    background-color:darkgrey;
+}
